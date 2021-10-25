@@ -3,7 +3,7 @@ This is a Master Project: Clustering the Learned Speech Representations (APC/VQ-
 
 --------------------------
 
-## Requirement Packages
+## Required Packages
 Torch 1.8.1\
 Numpy 1.20.2\
 Matplotlib 3.4.2
